@@ -21,9 +21,9 @@
           <el-menu-item index="2-4-3">选项3</el-menu-item>
         </el-submenu>
       </el-submenu>
-      <el-menu-item index="3"><a href="#">书房</a></el-menu-item>
+      <el-menu-item index="3"><a href="/applibrary">书房</a></el-menu-item>
       <el-menu-item index="4" disabled>消息中心</el-menu-item>
-      <span style="float: right;padding: 20px"><a href="#nowhere" style="color: #fff">登录/注册</a></span>
+      <span style="float: right;padding: 20px"><a href="/appindex" style="color: #fff">登录/注册</a></span>
       <i class="el-icon-menu" style="float:right;font-size: 45px;color: aliceblue;padding-top: 8px"></i>
     </el-menu>
   </div>
